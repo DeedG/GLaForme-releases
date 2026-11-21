@@ -15,11 +15,12 @@ Pensée pour celles et ceux qui n'y connaissent rien en nutrition, sur la base d
 
 ## Ce que fait l'app
 
-- **Tes besoins du jour**, calculés selon ton profil, ton activité et tes pas (Health Connect).
+- **Tes besoins du jour**, calculés selon ton profil, ton activité et tes pas (montre via Health Connect, compteur du téléphone ou saisie).
 - **Un journal de repas** avec plus de 2 000 aliments (table Ciqual de l'ANSES). La recherche tolère les fautes, les accents et l'ordre des mots.
 - **Tes propres produits** : scanne un code-barres, prends l'étiquette en photo ou saisis-la ; le produit est reconnu au scan suivant.
 - **Allergies et goûts** : les 14 allergènes réglementaires et les aliments que tu n'aimes pas sont écartés des menus.
 - **Compléter ma journée** : tu as mangé dehors ce midi ? Note-le au plus proche, l'app propose le dîner qui rattrape ce qui manque.
+- **Ma semaine et mes courses** : prévois tes repas (ou laisse l'app remplir la semaine selon tes besoins et tes habitudes), puis obtiens la liste de courses rangée par rayon, en quantités qu'on trouve en magasin. Tes listes se refont d'un geste.
 - **Eau, poids, balance à impédance** (saisie manuelle ou via Health Connect), courbe et bilan sur 7 et 30 jours.
 - **Bouger** : un programme de 4 semaines sans matériel et des pauses écran de 3 minutes, avec un minuteur guidé.
 - **Rappels** utiles : boire (seulement si tu es en retard), noter tes repas.
